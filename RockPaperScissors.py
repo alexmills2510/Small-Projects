@@ -33,6 +33,6 @@ while user_score < 3 and computer_score < 3:
         print("Choose rock, paper, or scissors.")
 
 if user_score == 3:
-    print(f"🎊 Congrats, you won the game {user_score} to {computer_score}!.")
+    print(f"🎊 Congrats, you won the game {user_score} to {computer_score}!")
 else:
     print(f"😓 You lost the game {user_score} to {computer_score}. ")
